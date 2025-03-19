@@ -20,7 +20,7 @@ To get started with the project, follow these steps:
     - Open `Costa Sales.pbix` in Power BI Desktop to view and interact with the sales data visualizations.
 
 3. **Analyze the CSV data**:
-    - Use your preferred data analysis tool (e.g., Excel, Python, R) to analyze the data in `Costa Sales.csv`.
+    - Use your preferred data analysis tool (Excel) to analyze the data in `Costa Sales.csv`.
 
 ## Data Description
 The `Costa Sales.csv` file contains the following columns:
@@ -48,4 +48,4 @@ If you would like to contribute to this project, please fork the repository and 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contact
-For any questions or inquiries, please contact [your-email@example.com].
+For any questions or inquiries, please contact [saif.eldin.ashraf2@gmail.com].
